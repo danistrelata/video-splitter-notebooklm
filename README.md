@@ -1,4 +1,7 @@
 # NotebookLM Video Splitter
+<img width="804" height="289" alt="image" src="https://github.com/user-attachments/assets/713fef03-0332-48f2-9ac9-42a211140f5d" />
+
+<img width="921" height="148" alt="image" src="https://github.com/user-attachments/assets/d35ab02f-6e74-4401-9773-d3be83d47b0e" />
 
 A simple python script that splits long videos into fixed-length segments using ffmpeg.
 
