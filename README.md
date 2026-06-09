@@ -17,9 +17,9 @@ pip install imageio-ffmpeg
 
 ## Usage
 
-python split_video.py lecture.mp4
+```python split_video.py lecture.mp4```
 
-python split_video.py lecture.mp4 --minutes 15
+```python split_video.py lecture.mp4 --minutes 15```
 
 ## Example
 
